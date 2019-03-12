@@ -23,4 +23,4 @@ useComputed;
 useDisposable;  
 useDisposable(func, inputs);  
 在unmount或者inputs变化时，可以利用autorun、reaction这样的函数定制一些需要的处理逻辑；  
-[useDisposable](https://github.com/zlv-thisF/NOTE-of-mobx-react-lite/blob/master/useDisposable%E5%87%BD%E6%95%B0.md)
+[useDisposable源码及注释](https://github.com/zlv-thisF/NOTE-of-mobx-react-lite/blob/master/useDisposable%E5%87%BD%E6%95%B0.md)
