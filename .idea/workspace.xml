@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c23cab2-e384-481f-a3ce-88280332ba2a" name="Default Changelist" comment="" />
+    <list default="true" id="7c23cab2-e384-481f-a3ce-88280332ba2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Reaction函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobx相关概念/observable相关/observable.object函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobx相关概念/observable相关/observable函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,12 +22,8 @@
         <entry file="file://$PROJECT_DIR$/useObservable函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
-                <folding>
-                  <element signature="e#0#31#1" expanded="true" />
-                  <element signature="e#0#31#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,11 +34,8 @@
         <entry file="file://$PROJECT_DIR$/useObserver函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="73">
-                <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-                <folding>
-                  <element signature="e#0#31#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="378">
+                <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,11 +43,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer函数.md">
+        <entry file="file://$PROJECT_DIR$/Reaction函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="840">
-                <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <first_editor relative-caret-position="1512">
+                <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobx相关概念/observable相关/observable函数.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="189">
+                <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,50 +67,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
+        <entry file="file://$PROJECT_DIR$/mobx相关概念/observable相关/observable.object函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="332">
-                <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObserverComponent函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="147">
-                <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/useDisposable函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="609">
-                <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/useComputed函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
               <first_editor relative-caret-position="126">
-                <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-                <folding>
-                  <element signature="e#0#9#0" expanded="true" />
-                </folding>
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,13 +93,16 @@
         <option value="$PROJECT_DIR$/useDisposable函数.md" />
         <option value="$PROJECT_DIR$/ObserverComponent函数.md" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/Reaction函数.md" />
+        <option value="$PROJECT_DIR$/mobx相关概念/observable相关/observable函数.md" />
+        <option value="$PROJECT_DIR$/mobx相关概念/observable相关/observable.object函数.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="y" value="-22" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="922" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -141,6 +115,17 @@
             <path>
               <item name="mobx-react-lite-mynote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobx-react-lite-mynote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobx-react-lite-mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobx-react-lite-mynote" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx相关概念" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobx-react-lite-mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobx-react-lite-mynote" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx相关概念" type="462c0819:PsiDirectoryNode" />
+              <item name="observable相关" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,18 +166,19 @@
       <option name="presentableId" value="Default" />
       <updated>1552380231069</updated>
       <workItem from="1552380232617" duration="100000" />
-      <workItem from="1552380341104" duration="7721000" />
+      <workItem from="1552380341104" duration="16175000" />
+      <workItem from="1552476103449" duration="1046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7821000" />
+    <option name="totallyTimeSpent" value="17321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +190,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,35 +204,28 @@
     <entry file="file://$PROJECT_DIR$/useObservable函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-            <folding>
-              <element signature="e#0#31#1" expanded="true" />
-              <element signature="e#0#31#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer函数.md">
+    <entry file="file://$PROJECT_DIR$/useObserver函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="840">
-            <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <first_editor relative-caret-position="378">
+            <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/useComputed函数.md">
+    <entry file="file://$PROJECT_DIR$/Reaction函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="126">
-            <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-            <folding>
-              <element signature="e#0#9#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="1512">
+            <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           </first_editor>
           <second_editor />
         </state>
@@ -262,34 +241,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="449">
+            <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/useDisposable函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="609">
+          <first_editor relative-caret-position="449">
             <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/useObserver函数.md">
+    <entry file="file://$PROJECT_DIR$/useComputed函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="73">
-            <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            <folding>
-              <element signature="e#0#31#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="105">
+            <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/observer函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="449">
+            <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobx相关概念/observable相关/observable函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobx相关概念/observable相关/observable.object函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <first_editor relative-caret-position="126">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
